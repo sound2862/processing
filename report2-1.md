@@ -12,7 +12,6 @@ void draw() {
   if (i>width-535) dir=-1;
   if (i<0) dir=1;
   i = i+dir*sp;
-  // if(keyPressed) sp=key-'0';
 }
 void keyPressed(){
   sp = key - '0';
