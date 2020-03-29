@@ -1,4 +1,4 @@
-```# processing
+```
 void setup() {
   size(800, 300);
   textSize(128);
