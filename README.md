@@ -17,4 +17,3 @@ void draw() {
 void keyPressed(){
   sp = key - '0';
 }
-```
