@@ -1,4 +1,5 @@
-```PFont f;
+```
+PFont f;
 void setup() {
   size(800, 300);
   textSize(6);
